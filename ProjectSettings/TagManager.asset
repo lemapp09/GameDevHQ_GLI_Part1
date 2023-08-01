@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Cube
+  - Sphere
+  - Capsule
+  - Floor
   layers:
   - Default
   - TransparentFX

@@ -1,0 +1,34 @@
+{
+    "name": "PlayerInputAction",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "146915c1-76e0-4b09-9244-5e8c53656778",
+            "actions": [
+                {
+                    "name": "RayCast1",
+                    "type": "Button",
+                    "id": "3e485b3d-436f-41b0-81e3-2ea0010eac23",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "481c618f-c512-4cd0-82e7-baa3298ef507",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RayCast1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
